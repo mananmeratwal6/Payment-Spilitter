@@ -150,7 +150,7 @@ body {
 
 /* Body Styling */
 .container {
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(74, 54, 71, 0.9);
     border-radius: 20px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
     padding: 40px;
@@ -165,7 +165,7 @@ body {
 h1 {
     text-align: center;
     font-size: 32px;
-    color: #ed0f0f;
+    color: #ffee00;
     margin-bottom: 30px;
     animation: fadeInUp 1.5s ease-out;
 }
@@ -200,7 +200,7 @@ button:hover, .withdraw-btn:hover {
 /* Wallet Address Styling */
 #wallet-address {
     font-size: 16px;
-    color: #482c72;
+    color: #c2bccc;
     text-align: center;
     animation: fadeInUp 2s ease-out forwards;
     opacity: 0;
@@ -235,7 +235,7 @@ input:focus {
 }
 
 #status.success {
-    color: #4CAF50;
+    color: #000000;
     text-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 }
 
@@ -252,7 +252,7 @@ ul {
 
 li {
     font-size: 16px;
-    color: #333;
+    color: #38c50d;
     padding: 10px;
     border-bottom: 1px solid #ddd;
     opacity: 0;
